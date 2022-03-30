@@ -1,2 +1,2 @@
 # Calculator
-Basic Calculator in JS
+Basic Calculator in JS - Rafal Barimach Saldanha 

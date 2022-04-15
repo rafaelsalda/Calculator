@@ -1,10 +1,9 @@
 function insert(num){
     var numero = document.getElementById('resultado').innerHTML;
     
-    if(numero.length < 15){
+    
         
     document.getElementById('resultado').innerHTML = numero + num;
- }
 }
 
 function clean(){
